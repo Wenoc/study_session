@@ -108,10 +108,12 @@ input[type="range"] {
 
 @media (min-width: 0px) and (max-width: 437px) {
   .iconi{
-    padding-left: 18px;
+    padding-left: 28px;
   }
-
+  #valasztas{
+    width: 100px;
+  }
   #sessionField{
-    width: 30%;
+    width: 36%;
   }
 }
